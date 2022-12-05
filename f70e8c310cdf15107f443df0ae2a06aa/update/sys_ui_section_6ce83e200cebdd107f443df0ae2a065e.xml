@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="6ce83e200cebdd107f443df0ae2a065e" sys_domain="global" table="" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-30 18:18:43</sys_created_on>
+            <sys_id>a0e83e200cebdd107f443df0ae2a0660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="NULL" sys_domain="global" view="14a4e063551201107f44d7f62dcafe68">6ce83e200cebdd107f443df0ae2a065e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-30 18:18:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-30 18:18:43</sys_created_on>
+            <sys_id>24e83e200cebdd107f443df0ae2a0660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="NULL" sys_domain="global" view="14a4e063551201107f44d7f62dcafe68">6ce83e200cebdd107f443df0ae2a065e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-30 18:18:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name/>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-30 18:18:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ce83e200cebdd107f443df0ae2a065e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">f70e8c310cdf15107f443df0ae2a06aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">f70e8c310cdf15107f443df0ae2a06aa</sys_scope>
+            <sys_update_name>sys_ui_section_6ce83e200cebdd107f443df0ae2a065e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-30 18:18:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">14a4e063551201107f44d7f62dcafe68</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
