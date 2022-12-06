@@ -17,14 +17,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
+        <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-22 02:58:40</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3b1956310cd755107f443df0ae2a06bc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Open - Unassiged</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">f70e8c310cdf15107f443df0ae2a06aa</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Loaner Request">f70e8c310cdf15107f443df0ae2a06aa</sys_scope>
         <sys_update_name>sys_app_module_3b1956310cd755107f443df0ae2a06bc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-22 02:58:40</sys_updated_on>
+        <sys_updated_on>2022-12-06 18:58:57</sys_updated_on>
         <timeline_page/>
         <title>Open - Unassiged</title>
         <uncancelable>false</uncancelable>
